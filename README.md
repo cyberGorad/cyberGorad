@@ -1,5 +1,7 @@
 # 👾 CYBERGORAD  
 
+![Matrix Effect]([https://tenor.com/view/hacker-gif-9526541082899671181](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21ycTlmaWQzazJ2NnF0M3Q2czl6aWxrajNveGVlZzF3ZXhtMnpzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2jMtpIi8mhE8ctiMtK/giphy.gif))
+
 **PASSION**: HACKING.  
 **MISSION**: EXPLORE. SECURE. BUILD.  
 **STATUS**: ALWAYS LEARNING.  

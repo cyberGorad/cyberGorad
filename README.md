@@ -1,4 +1,5 @@
 # 👾 CYBERGORAD  
+![Welcome Badge](https://img.shields.io/badge/Welcome-User-brightgreen?style=for-the-badge&logo=github)
 
 <img src="./cybergorad.jpg" alt="Matrix Effect" width="500" height="500">
 

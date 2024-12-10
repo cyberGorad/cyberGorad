@@ -1,7 +1,20 @@
 # 👾 CYBERGORAD  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&color=%2300FF00&background=%23000000&width=600&lines=root%40cyb3rGor4d%23+Welcome+User...;Cybergorad+is+Here!)](https://github.com/your-username)
 
-- work in [cybeXus](https://github.com/cybeXus)
+## 🚀 Projets et collaborations
+
+🎯 **Travail en partenariat avec [cybeXus](https://github.com/cybeXus)**  
+💡 Nous explorons les frontières de la cybersécurité avec des projets innovants, notamment : 
+- 🔐 Développement d'outils d'analyse des vulnérabilités.
+- 📊 Création de tableaux de bord de sécurité en temps réel.
+- 🌐 Réseaux sécurisés pour des environnements complexes.
+
+![cybeXus GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
+👉 Consulte nos contributions et nos projets : [cybeXus sur GitHub](https://github.com/cybeXus)
+
+---
+
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=cybergorad&layout=compact&theme=radical)
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=cybergorad&show_icons=true&theme=radical)

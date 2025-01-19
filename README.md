@@ -57,7 +57,7 @@ Que vous soyez intéressé par la cybersécurité, le hacking éthique, ou des s
 
 
 
-<img src="./cybergorad.jpg" alt="Matrix Effect" width="500" height="500">
+<img src="./my_logo.jpeg" alt="Matrix Effect" width="500" height="500">
 
 
 **PASSION**: HACKING.  

@@ -1,5 +1,27 @@
  👾 CYBERGORAD  
 
+ ## 🛠️ 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557CFF?style=flat&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A9?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-8B0000?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-00A0B0?style=flat&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF1A00?style=flat&logo=burp-suite&logoColor=white)
+![Hydra](https://img.shields.io/badge/-Hydra-FF0000?style=flat&logo=hydra&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/-John_the_Ripper-00B5E2?style=flat&logo=john-the-ripper&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/-Aircrack_ng-1A8FE0?style=flat&logo=aircrack-ng&logoColor=white)
+![Netcat](https://img.shields.io/badge/-Netcat-00A000?style=flat&logo=netcat&logoColor=white)
+![Nikto](https://img.shields.io/badge/-Nikto-990000?style=flat&logo=nikto&logoColor=white)
+
+
  🔗 Portfolio  
 [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-green?style=for-the-badge&logo=Firefox)](https://tsilavina.alwaysdata.net/portfolio)  
 
@@ -54,16 +76,6 @@ Que vous soyez intéressé par la cybersécurité, le hacking éthique, ou des s
 ![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=cybergorad&theme=react-dark)
 
 
-
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 
 <img src="./my_logo.jpeg" alt="Matrix Effect" width="500" height="500">

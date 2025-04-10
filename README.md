@@ -11,6 +11,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557CFF?style=flat&logo=kali-linux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/-Parrot_OS-009C93?style=flat&logo=parrot&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A9?style=flat&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-8B0000?style=flat&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-00A0B0?style=flat&logo=nmap&logoColor=white)
@@ -20,6 +21,7 @@
 ![Aircrack-ng](https://img.shields.io/badge/-Aircrack_ng-1A8FE0?style=flat&logo=aircrack-ng&logoColor=white)
 ![Netcat](https://img.shields.io/badge/-Netcat-00A000?style=flat&logo=netcat&logoColor=white)
 ![Nikto](https://img.shields.io/badge/-Nikto-990000?style=flat&logo=nikto&logoColor=white)
+
 
 
  🔗 Portfolio  

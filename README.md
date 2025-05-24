@@ -1,3 +1,4 @@
+![cybeXus GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzIyMHppZ2t0aGQ0NmRqcWRjYXRzZm1tOHM0d3J6ZmdxdmJxNm56bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif)
 <h1> [+] WELCOME USERS, YOU WANT TO KNOW MORE ABOUT #CYBERGORAD ? It's The GOOD PLACE   </h1>
 
 
@@ -66,7 +67,7 @@ Que vous soyez intéressé par la cybersécurité, le hacking éthique, ou des s
 - 📊 Création de tableaux de bord de sécurité en temps réel.
 - 🌐 Réseaux sécurisés pour des environnements complexes.
 
-![cybeXus GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzIyMHppZ2t0aGQ0NmRqcWRjYXRzZm1tOHM0d3J6ZmdxdmJxNm56bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif)
+
 
 👉 Consulte nos contributions et nos projets : [cybeXus sur GitHub](https://github.com/cybeXus)
 

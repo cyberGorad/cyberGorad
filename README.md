@@ -5,11 +5,13 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Batch](https://img.shields.io/badge/-Batch%20Script-2C2C2C?style=flat&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
 
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557CFF?style=flat&logo=kali-linux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/-Parrot_OS-009C93?style=flat&logo=parrot&logoColor=white)
@@ -22,6 +24,7 @@
 ![Aircrack-ng](https://img.shields.io/badge/-Aircrack_ng-1A8FE0?style=flat&logo=aircrack-ng&logoColor=white)
 ![Netcat](https://img.shields.io/badge/-Netcat-00A000?style=flat&logo=netcat&logoColor=white)
 ![Nikto](https://img.shields.io/badge/-Nikto-990000?style=flat&logo=nikto&logoColor=white)
+![OSINT](https://img.shields.io/badge/-OSINT-2E7D32?style=flat&logo=bookstack&logoColor=white)
 
 
 

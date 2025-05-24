@@ -12,6 +12,14 @@
 ![Batch](https://img.shields.io/badge/-Batch%20Script-2C2C2C?style=flat&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
+![🛡️ Cybersecurity](https://img.shields.io/badge/-Cybersecurity-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![💚 Ethical Hacker](https://img.shields.io/badge/-Ethical%20Hacker-00CC66?style=for-the-badge&logo=tryhackme&logoColor=black)
+![🧠 Pentester](https://img.shields.io/badge/-Pentester-00AA55?style=for-the-badge&logo=kali-linux&logoColor=black)
+![📡 Network Defender](https://img.shields.io/badge/Network--Defender-00FF88?style=for-the-badge&logo=gnubash&logoColor=black)
+![🔍 Threat Hunter](https://img.shields.io/badge/Threat--Hunter-33FF66?style=for-the-badge&logo=virustotal&logoColor=black)
+![🧪 Vulnerability Analyst](https://img.shields.io/badge/Vulnerability--Analyst-00FF44?style=for-the-badge&logo=veracrypt&logoColor=black)
+
+
 
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557CFF?style=flat&logo=kali-linux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/-Parrot_OS-009C93?style=flat&logo=parrot&logoColor=white)
